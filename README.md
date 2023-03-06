@@ -1,0 +1,1 @@
+This Repository contains all the practiced code for Data Structures and alogrithms using C++
